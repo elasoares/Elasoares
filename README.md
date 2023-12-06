@@ -1,4 +1,4 @@
-## Hello! I am Ela Soares.
+## Hello! I am Elaine Soares.
 
 <div>
   <a href="https://github.com/elasoares">

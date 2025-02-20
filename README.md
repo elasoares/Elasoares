@@ -25,5 +25,8 @@
     </a>
     <a href="https://www.linkedin.com/in/elaine-soares-ti/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a> 
+    </a>  
+    <a href="https://portfolio-elainesoares.netlify.app/#/home" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio-%231E90FF?style=for-the-badge&logo=react&logoColor=white">
+    </a>
 </div>

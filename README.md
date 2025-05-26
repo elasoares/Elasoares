@@ -2,7 +2,6 @@
 <h3 align="center">Este é meu repositório de Desenvolvedora Front-End.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
-🧑🏻‍🎓 Cientista De Dados e Gestor De Automação Com IA faminto por conhecimento e apaixonado por gerar produtos capazes de impactar negócios de maneira exponencial.
 
 ###
 👨🏻‍💻 Desenvolvedora Front-End e estudante de Análise e Desenvolvimento de Sistemas no Instituto Infnet. Tenho experiência com HTML, CSS, JavaScript, React e Node.js, e sou apaixonada por aprender e criar soluções práticas que facilitem o dia a dia das pessoas. Minha experiência em atendimento ao cliente me ajuda a entender melhor as necessidades dos usuários para construir projetos eficientes e acessíveis.

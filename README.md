@@ -15,9 +15,8 @@
 <h2 align="left">💻 Tech </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ela-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ela-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ela-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Ela-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 
@@ -32,7 +31,7 @@
     <a href="https://portfolio-elainesoares.netlify.app/#/home" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio-%231E90FF?style=for-the-badge&logo=react&logoColor=white">
     </a>
-    <a href="https://api.whatsapp.com/send?l=pt_BR&phone=5585992641415" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?        style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+    <a href="https://api.whatsapp.com/send?l=pt_BR&phone=5585992641415" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
 </div>
 
